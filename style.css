@@ -1,3 +1,7 @@
+.col-sm-4 {
+    width: auto !important;
+}
+
 body {
     font-family: Arial, sans-serif;
     font-size: 18px;
